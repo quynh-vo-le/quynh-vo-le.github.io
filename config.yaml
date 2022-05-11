@@ -3,42 +3,38 @@ baseURL: https://quynh-vo-le.github.io
 languageCode: en-us
 title: Quynh's Blog
 
+# Manage languages
+# For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+
 # Control TOC depth
 markup:
   tableOfContents:
     startLevel: 2
     endLevel: 6
     ordered: false
-    
-# At least HTML and JSON are required for the main HTML content and
-# client-side JavaScript search
-outputs:
-  home:
-    - HTML
-    - RSS
-    - JSON
 
   # Enable global emoji support
   enableEmoji: true
 
 # Site parameters
 params:
-  # Author setup
-  
-  # Your detail
-  name: Quynh Vo
-  
-  # GitHub repo URL of your site
-  gitRepo: https://github.com/quynh-vo-le/quynh-vo-le.github.io.git
   # Background Image
   background: "images/sea.jpg"
-
-# The inverted logo will be used in the initial transparent navbar and
-# the main logo will be used in the non-transparent navbar.
+  
+  # Provide logos for your site. The inverted logo will be used in the initial
+  # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: images/logo1.png
+    main: images/main-logo.png
     inverted: images/inverted-logo.png
     favicon: images/logo1.png
+  
+  # GitHub repo of your site 
+  gitRepo: https://github.com/quynh-vo-le/quynh-vo-le.github.io.git
+
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
@@ -76,9 +72,6 @@ params:
         # diaspora: true
         # mastodon: true
         
-    # Enable & configure "Notes" features
-    notes:
-      enable: true
 
     # Enable comment feature. There, should be only one of them.
     comment:
