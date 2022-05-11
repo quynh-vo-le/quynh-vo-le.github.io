@@ -1,7 +1,7 @@
 # some information about you
 name: "Quynh Vo"
 nickname: "Quynh"
-image: "images/quynhs.jpg"
+image: "images/logo1.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
