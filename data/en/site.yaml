@@ -1,0 +1,12 @@
+# Copyright Notice
+copyright: © 2022 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Portfolio and personal blog of Quynh Vo.
+
+# Add custom menus
+customMenus:
+- name: Notes
+  url: https://hossainemruz.gitbook.io/notes/
+  hideFromNavbar: false
+  showOnFooter: true
