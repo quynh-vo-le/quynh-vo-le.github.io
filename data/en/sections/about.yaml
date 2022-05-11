@@ -1,0 +1,47 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+  
+# your designation
+designation: MSc. Aquaculture, Environment and Society - Work as a freelancer
+# your company information
+company:
+  name: Home.
+  url: "quynhvo.netlify.app"
+  
+# a summary about you
+summary: 'I am an aquaculturist enthusiast with a curiosity about the development of aquaculture, the trade of aquaculture products, and how it is governed in different regions, especially between Europe and the developing countries in the global South. Working interests lie in the sustainable development of aquaculture, working across disciplines to provide innovative solutions and contribute to the global aquaculture trade.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "khanhquynhvole@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/quynh-vo-le"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/quynh-vo-88077617b/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/QuynhVoLeKhanh1"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/quynh.vo.3781"
+  
+- name: YouTube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UC1_03eKw6kxSa5OjE4qW_-Q"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume_quynhvo.pdf"
