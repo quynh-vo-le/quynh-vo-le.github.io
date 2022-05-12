@@ -1,0 +1,41 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+# Your experiences
+experiences:
+- company:
+    name: College of Aquaculture and Fisheries, Can Tho University
+    url: "https://caf.ctu.edu.vn/en/"
+    location: Vietnam
+    # company overview
+    overview: Can Tho University has been recognized as one of leading universities in Vietnam, especially in the fields of agriculture and aquaculture/fisheries.
+  positions:
+  - designation: Research Assistant
+    start: Jan 2018
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Aug 2019
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Participated in 2-year research project funded by ODA loans from the Government of Japan to access the effects of climate change on capture fisheries in the coastal areas of the Mekong delta, Vietnam. Budget of the project was 40,000 USD.
+    - Assisted in planning, training of participants, and the development and management of partnerships with local authorities and fishermen, conducted interviews, oversaw contracts, budget management, going on fishing boats for field sampling, was responsible for data entry and data analysis, and contributed to writing papers.
+    
+- company: 
+    name: Ba Ria – Vung Tau Shrimp Hatchery, C.P. Vietnam Corporation
+    url: "https://www.linkedin.com/company/cp-vietnam-corporation/about/"
+    location: Vietnam
+    overview: C.P. (Charoen Pokphand Group) is a multi-industry production and business group and one of Thailand's strongest groups in the fields of industry - agriculture and food processing. C.P Group. started to operate in Vietnam in 1988.
+  positions:
+  - designation: Laboratory Technician
+    start: Mar 2016
+    end: Apr 2017
+    responsibilities:
+    - Laboratory skills and operating hatchery experience, extraction of DNA and practice of Polymerase Chain Reaction (PCR).
+    - Responsible for examining shrimp quality in their early life stages and before selling, live prey (phytoplankton and zooplankton) and environmental parameters.
+   

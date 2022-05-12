@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+  # Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: R language
+  logo: /images/sections/skills/rstudio.png
+  summary: "Capable of R programing, importing, transforming, and visulizing data in R studio. Experienced in building blogs with R RStudio Blogdown, Hugo, GitHub and Netlify."
+  url: "https://docs.rstudio.com/"
+
+- name: QGIS
+  logo: /images/sections/skills/QGIS.png
+  summary: "Producing maps, basic habitat modelling, and raster calculator."
+  url: "https://www.qgis.org/en/site/forusers/trainingmaterial/index.html#english"
+  
+- name: Microsoft Office
+  logo: /images/sections/skills/Microsoft_Office.png
+  summary: "Using Word, Excel, PowerPoint,etc. for data analysis, writing reports, presentation, etc."
+  
+  

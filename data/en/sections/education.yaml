@@ -1,0 +1,113 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+degrees:
+- name: Erasmus Mundus Joint Master Degree in Aquaculture, Environment, and Society EMJMD ACES
+  icon: fa-graduation-cap
+  timeframe: Sep 2019 - Jan 2020
+  institution:
+    name: Scottish Association for Marine Science - The United Kingdom
+    url: "https://www.sams.ac.uk/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:  
+    - name: Environmental interactions of aquaculture
+      # achieved: 3.75
+      # outOf: 4
+    - name: Governance, management and knowledge exchange
+      # achieved:
+      # outOf: 
+    - name: Overview of global aquaculture 
+      # achieved: 
+      # outOf: 
+- name: Erasmus Mundus Joint Master Degree in Aquaculture, Environment, and Society EMJMD ACES
+  icon: fa-graduation-cap
+  timeframe: Feb 2020 - Aug 2020
+  institution:
+    name: University of Crete - Greece 
+    url: "https://en.uoc.gr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:  
+    - name: Managing Lifecycles in captivity - finfish biology, nutrition, reproduction and rearing
+      # achieved: 3.75
+      # outOf: 4
+    - name: Fish welfare and disease management 
+      # achieved:
+      # outOf: 
+    - name: Fish Quality - Environmental and Genetic Components 
+      # achieved: 
+      # outOf: 
+    - name: Environmental Impact Assessment for Aquaculture projects  
+      # achieved: 
+      # outOf: 
+- name: Erasmus Mundus Joint Master Degree in Aquaculture, Environment, and Society EMJMD ACES
+  icon: fa-graduation-cap
+  timeframe: Sep 2020 - Jan 2021
+  institution:
+    name: University of Nantes - France
+    url: "https://english.univ-nantes.fr/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:  
+    - name: Shellfish Life Cycle
+      # achieved: 3.75
+      # outOf: 4
+    - name: Marine Safety Products 
+      # achieved:
+      # outOf: 
+    - name: Refinement and develop of marine natural products 
+      # achieved: 
+      # outOf: 
+- name: Erasmus Mundus Joint Master Degree in Aquaculture, Environment, and Society EMJMD ACES
+  icon: fa-graduation-cap
+  timeframe: Feb 2021 - Aug 2021
+  institution:
+    name: Scottish Association for Marine Science - The United Kingdom
+    url: "https://www.sams.ac.uk/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:  
+    - name: Master thesis in Understanding Corporate Social Responsibility Initiatives Across Aquaculture Context - A Case Study of Farmed Scottish Salmon and Vietnamese Shrimp and Pangasius.
+      # achieved: 
+      # outOf: 
+- name: B.Sc. in Fisheries Resource Management
+  icon: fa-graduation-cap
+  timeframe: 2012-2016
+  institution:
+    name: Can Tho University - Vietnam
+    url: "https://en.ctu.edu.vn/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    collapseAfter: 3
+    courses:
+    - name: Marine Biology
+    - name: Fisheries Oceanography
+    - name: Marine Ecosystem
+    - name: Marine Biodiversity and Conservation
+    - name: Monitoring and Environmental Warning
+    - name: Science of Environmental Management
+    - name: etc.
+  extracurricularActivities: #(optional)
+  - Student Representative.
+  - Volunteer for field researchs
+  - Team sports.
+  - English clubs.
+    

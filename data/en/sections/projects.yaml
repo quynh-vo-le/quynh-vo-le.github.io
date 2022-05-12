@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+  
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "professional"
+- name: Academic
+  filter: "academic"
+- name: Hobby
+  filter: "hobby"
+  
+
+# your projects
+projects:
+- name: Fishing status and awareness of the impact of climate change to the coastal trawl-net in Soc Trang province (Vietnamese).
+  logo: images/ctu.png
+  role: Research Asisstant
+  timeline: "Jan 2018 - Aug 2019"
+  url: https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/3662 # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: It was a two-year research project to aaccess the effects of climate change on trawl-net fishermen in the coastal areas of the Mekong delta, Vietnam.
+  tags: ["academic", "fishing", "trawl-net", "climate change", "coastal"]
+- name: Fishing status and fishermen’s perception of climate change impacts on coastal bag-net fishing in Soc Trang province (Vietnamese).
+  logo: images/ctu.png
+  role: Research Asisstant
+  timeline: "Jan 2018 - Aug 2019"
+  url: https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/3688 
+  summary: It was a two-year research project to aaccess the effects of climate change on bag-net fishermen in the coastal areas of the Mekong delta, Vietnam.
+  tags: ["academic", "fishing", "bag-net", "climate change", "coastal"]
+- name: Fishing status quo and awareness of the climate change to coastal gillnet at Bac Lieu province (Vietnamese).
+  logo: images/ctu.png
+  role: Research Asisstant
+  timeline: "Jan 2018 - Aug 2019"
+  url: https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/3689
+  summary: It was a two-year research project to aaccess the effects of climate change on gillnet fishermen in the coastal areas of the Mekong delta, Vietnam.
+  tags: ["academic", "fishing", "gillnet", "climate change", "coastal"]
+- name: Quynh's Blog
+  logo: images/logo1.png
+  timeline: "May 2022 - Present"
+  repo: https://github.com/quynh-vo-le/quynh-vo-le.github.io
+  summary: Portfolio and personal blog of Quynh Vo.
+  tags: ["professional", "hobby"]
