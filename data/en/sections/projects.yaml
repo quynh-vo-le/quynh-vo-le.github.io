@@ -22,6 +22,12 @@ buttons:
 
 # your projects
 projects:
+- name: Quynh's Blog
+  logo: images/logo1.png
+  timeline: "May 2022 - Present"
+  repo: https://github.com/quynh-vo-le/quynh-vo-le.github.io
+  summary: Portfolio and personal blog of Quynh Vo.
+  tags: ["professional", "hobby"]
 - name: Fishing status and awareness of the impact of climate change to the coastal trawl-net in Soc Trang province (Vietnamese).
   logo: images/ctu.png
   role: Research Asisstant
@@ -44,9 +50,3 @@ projects:
   url: https://ctujsvn.ctu.edu.vn/index.php/ctujsvn/article/view/3689
   summary: It was a two-year research project to aaccess the effects of climate change on gillnet fishermen in the coastal areas of the Mekong delta, Vietnam.
   tags: ["academic", "fishing", "gillnet", "climate change", "coastal"]
-- name: Quynh's Blog
-  logo: images/logo1.png
-  timeline: "May 2022 - Present"
-  repo: https://github.com/quynh-vo-le/quynh-vo-le.github.io
-  summary: Portfolio and personal blog of Quynh Vo.
-  tags: ["professional", "hobby"]

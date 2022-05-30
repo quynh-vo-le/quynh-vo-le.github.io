@@ -1,0 +1,24 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 8
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  hideTitle: false
+
+# Your achievements achievements
+achievements:
+- title: Scholarship awardee under the Erasmus Mundus Joint Master Degree in Aquaculture, Environment and Society PLUS (EMJMD ACES+).
+  image: images/sections/achievements/ACES2019to2021.jpg
+  summary: EMJMD ACES+ is a two-year full-time master's programme. It comprises semesters of study at the Scottish Association for Marine Science (UK), University of Crete (Greece), University of Nantes (France).
+  # title: Champion
+  # image: images/sections/achievements/sport.jpg
+  # summary: Champion in cycling inter-city cycling championship 2020.
+- title: Graduation
+  image: images/sections/achievements/ACES.jpg
+  summary: Received MSc. in Aquaculture, Environment and Society PLUS (EMJMD ACES+) from the University of  of the University Highlands and Islands, the University of Crete and the University of Nantes.
+- title: Graduation
+  image: images/sections/achievements/logo-ctu.png
+  summary: Received Degree of engineer in Fisheries Resource Management from Can Tho University, Vietnam.

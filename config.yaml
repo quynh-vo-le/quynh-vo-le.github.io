@@ -47,8 +47,8 @@ params:
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
-  newsletter:
-    enable: true
+  # newsletter:
+    # enable: true
   
   # Configure the number of section title visible in the top navbar
   topNavbar:
