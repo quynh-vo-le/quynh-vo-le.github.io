@@ -26,7 +26,7 @@ markup:
 # Site parameters
 params:
   # Background Image
-  background: "images/site/sea.jpg"
+  background: "images/default-background.jpg"
   newsletter:
     enable: true
   
