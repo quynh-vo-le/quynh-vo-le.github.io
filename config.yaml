@@ -1,5 +1,6 @@
 theme: "toha"
 baseURL: https://quynh-vo-le.github.io
+
 languageCode: en-us
 title: Quynh's Blog
 
@@ -19,7 +20,10 @@ markup:
     startLevel: 2
     endLevel: 6
     ordered: false
-
+  goldmark:
+    renderer:
+      unsafe: true
+      
   # Enable global emoji support
   enableEmoji: true
 
@@ -70,14 +74,15 @@ params:
         facebook: true
         twitter: true
         linkedin: true
-        reddit: true
+        #reddit: true
         whatsapp: true
         email: true
+        youtube: true
         # tumblr: true
         # pocket: true
         # diaspora: true
         # mastodon: true
-        
+
 
     # Enable comment feature. There, should be only one of them.
     comment:
@@ -91,6 +96,10 @@ params:
       # Google Analytics
       google:
         id: khanhquynhvole@gmail.com
-        
-
-      
+     # At least HTML and JSON are required for the main HTML content and
+     # client-side JavaScript search
+    outputs:
+      home:
+        - HTML
+        - RSS
+        - JSON 
