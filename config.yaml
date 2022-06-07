@@ -1,4 +1,8 @@
 theme: "toha"
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
 baseURL: https://quynh-vo-le.github.io
 
 languageCode: en-us
@@ -103,3 +107,6 @@ params:
         - HTML
         - RSS
         - JSON 
+        
+
+    
