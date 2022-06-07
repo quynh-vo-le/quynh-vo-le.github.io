@@ -23,7 +23,7 @@ buttons:
 # your projects
 projects:
 - name: Quynh's Blog
-  logo: images/logo1.png
+  logo: images/sections/projects/logo1.png
   timeline: "May 2022 - Present"
   repo: https://github.com/quynh-vo-le/quynh-vo-le.github.io
   summary: Portfolio and personal blog of Quynh Vo.
