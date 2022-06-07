@@ -3,7 +3,7 @@ ignoreFiles:
   - \.Rmd$
   - \.Rmarkdown$
   - _cache$
-baseURL: https://quynh-vo-le.github.io
+baseURL: https://main--quynhvo.netlify.app/
 
 languageCode: en-us
 title: Quynh's Blog
