@@ -7,14 +7,14 @@ section:
   template: sections/about.html # allows you to point to a specific template.
   
 # your designation
-designation: MSc. Aquaculture, Environment and Society - Work as a freelancer
+designation: PhD Candidate - Griffith University 
 # your company information
 company:
-  name: Home.
-  url: "quynhvo.netlify.app"
+  name: Griffith University.
+  url: "https://www.griffith.edu.au/"
   
 # a summary about you
-summary: 'I am an aquaculturist enthusiast with a curiosity about the development of aquaculture, the trade of aquaculture products, and how it is governed in different regions, especially between Europe and the developing countries in the global South. Working interests lie in the sustainable development of aquaculture, working across disciplines to provide innovative solutions and contribute to the global aquaculture trade.'
+summary: "I am an aquaculture enthusiast with curiosity in the development of the aquaculture industry and their responsibility to the industry’s practice, especially the farming of Atlantic salmon. My research is focused on the development of a computer vision approach to monitor the welfare of farmed salmon in offshore aquaculture in Tasmania. I work with the industry partners in Tasmania to address their concerns about the welfare of farmed salmon offshore."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -44,7 +44,7 @@ socialLinks:
   url: "https://www.youtube.com/channel/UC1_03eKw6kxSa5OjE4qW_-Q"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/Resume_Quynh Vo.pdf"
+resume: "files/CV_Quynh Vo_Short form.pdf"
 
 # Your soft skills
 badges:
