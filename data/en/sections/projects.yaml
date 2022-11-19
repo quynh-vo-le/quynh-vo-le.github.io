@@ -22,6 +22,14 @@ buttons:
 
 # your projects
 projects:
+- name: Advanced monitoring of salmon welfare in offshore aquaculture in Tasmania.
+  logo: images/griffith.png
+  role: Research Asisstant
+  timeline: "Oct 2022 - Oct 2026"
+  url: https://blueeconomycrc.com.au/education/current-phd-scholars/ # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  # repo: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: It was a PhD project to to develop a computer vision approach to monitor the welfare of farmed salmon in offshore aquaculture in Tasmania. The project will contribute to a research programme within the Blue Economy CRC titled Advanced Monitoring to Maximise Fish Welfare in Offshore Aquaculture. The project is a collaboration between Griffith University, The University of Tasmania and Tasmania’s three salmon aquaculture companies; Tassal, Huon Aquaculture, and Petuna. 
+  tags: ["academic", "professional", "aquaculture", "fish welfare", "monitoring", "offshore"]
 - name: Quynh's Blog
   logo: images/sections/projects/logo1.png
   timeline: "May 2022 - Present"

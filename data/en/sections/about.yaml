@@ -7,7 +7,7 @@ section:
   template: sections/about.html # allows you to point to a specific template.
   
 # your designation
-designation: PhD Candidate at 
+designation: PhD Candidate
 # your company information
 company:
   name: Griffith University.
