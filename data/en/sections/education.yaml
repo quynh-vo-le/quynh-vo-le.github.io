@@ -10,6 +10,26 @@ section:
   # hideTitle: true
   
 degrees:
+- name: Doctor of Philosophy in Aquaculture 
+  icon: fa-graduation-cap
+  timeframe: Oct 2022 - Oct 2026
+  institution:
+    name: Griffith University - Australia
+    url: "https://www.griffith.edu.au/"
+  # takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    # showGrades: false
+    # collapseAfter: 3
+    # courses:  
+    # - name: Environmental interactions of aquaculture
+      # achieved: 3.75
+      # outOf: 4
+    # - name: Governance, management and knowledge exchange
+      # achieved:
+      # outOf: 
+    # - name: Overview of global aquaculture 
+      # achieved: 
+      # outOf: 
 - name: Erasmus Mundus Joint Master Degree in Aquaculture, Environment, and Society EMJMD ACES
   icon: fa-graduation-cap
   timeframe: Sep 2019 - Jan 2020
